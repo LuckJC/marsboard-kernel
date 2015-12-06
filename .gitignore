@@ -1,0 +1,11 @@
+*.o
+*.depend
+*.cmd
+*.d
+
+linux-3.3/
+buildroot/target/dragonboard/sysroot.tar.gz
+out/
+tools/pack/out/
+tools/pack/sun7i_android_wing-*.img
+buildroot/dl/gcc-linaro.tar
